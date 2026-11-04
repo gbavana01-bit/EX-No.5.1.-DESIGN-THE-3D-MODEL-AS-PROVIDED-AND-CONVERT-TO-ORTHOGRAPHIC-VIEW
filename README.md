@@ -37,6 +37,8 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 
+<img width="1492" height="1054" alt="Technical Drawing Sheet with Updated Title Block" src="https://github.com/user-attachments/assets/8d59a876-17cc-4ba7-8122-210d9a890787" />
+
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
